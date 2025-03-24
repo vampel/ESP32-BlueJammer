@@ -34,4 +34,5 @@ Asi que hice mis propias conexiones (estan en posicion contraria al tutorial ant
 
 no es la mejor forma de presentar un esquematico pero es entendible para principiantes como yo al soldar
 
-![](pics/conexiones.jpg)
+una vez terminada las conexion cargamos firmware 
+![](pics/firmware1.jpg)
