@@ -32,7 +32,7 @@ Asi que hice mis propias conexiones (estan en posicion contraria al tutorial ant
 
 ![](pics/conexiones.jpg)
 *Pd. Olvide mencionar los 2 capacitor SMD (805 10v 10uf) para que los NRF24 no pierdan energia*  
-pics/SMD.jpg  
+![](pics/SMD.jpg)  
 no es la mejor forma de presentar un esquematico pero es entendible para principiantes como yo al soldar
 
 una vez terminada las conexion cargamos firmware(hay 7 firmwares diferentes aqui usamos la version Combo)  
