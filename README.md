@@ -6,7 +6,7 @@
 [EmenstaNougat](https://github.com/EmenstaNougat)
 
 En su github puedes ver todo el tutorial y firmwares usados para hacer este dispositivo  
-Recomienda ESP32 de 38 pines (Recomiendan DevKit) y 2 NRF24 que no sean negros  
+Se ocupa un ESP32 de 38 pines (Recomiendan DevKit) y 2 NRF24 que no sean negros  
 
 Para esta version usamos que venden en cualquier tienda Steren y es de USB tipo C (mas nuevo) pero tiene que ser la version de 38 pines y cualquier version de NRF24 (use el negro de antena)
 
@@ -31,10 +31,11 @@ Para soldar los cables seguimos los pasos que tiene de las conexiones, pero al s
 Asi que hice mis propias conexiones (estan en posicion contraria al tutorial antes mencionado)
 
 ![](pics/conexiones.jpg)
-
+*Pd. Olvide mencionar los 2 capacitor SMD (805 10v 10uf) para que los NRF24 no pierdan energia*  
+pics/SMD.jpg  
 no es la mejor forma de presentar un esquematico pero es entendible para principiantes como yo al soldar
 
-una vez terminada las conexion cargamos firmware 
+una vez terminada las conexion cargamos firmware(hay 7 firmwares diferentes aqui usamos la version Combo)  
 ![](pics/firmware1.jpg)
 
 # Hasta aqui funciona el Jammer por si solo
