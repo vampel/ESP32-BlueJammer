@@ -2,11 +2,11 @@
 
 *Este dispositivo fue hecho con fines educativos*
 
-# agradecimientos especiales a los desarrolladores de los Firmware:
+# agradecimientos especiales al de los Firmware:  
 [EmenstaNougat](https://github.com/EmenstaNougat)
 
 En su github puedes ver todo el tutorial y firmwares usados para hacer este dispositivo  
-Recomienda ESP32 de 38 pines (Recomiendan DevKit) y 2 NRF24 que no sean negros
+Recomienda ESP32 de 38 pines (Recomiendan DevKit) y 2 NRF24 que no sean negros  
 
 Para esta version usamos que venden en cualquier tienda Steren y es de USB tipo C (mas nuevo) pero tiene que ser la version de 38 pines y cualquier version de NRF24 (use el negro de antena)
 
