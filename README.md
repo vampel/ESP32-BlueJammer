@@ -32,6 +32,7 @@ Asi que hice mis propias conexiones (estan en posicion contraria al tutorial ant
 
 ![](pics/conexiones.jpg)
 *Pd. Olvide mencionar los 2 capacitor SMD (805 10v 10uf) para que los NRF24 no pierdan energia*  
+- *el Capacitor va soldado en el VCC y el GNC del NRF24 (positivo y negativo)*
 ![](pics/SMD.jpg)  
 no es la mejor forma de presentar un esquematico pero es entendible para principiantes como yo al soldar
 
