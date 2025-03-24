@@ -36,3 +36,10 @@ no es la mejor forma de presentar un esquematico pero es entendible para princip
 
 una vez terminada las conexion cargamos firmware 
 ![](pics/firmware1.jpg)
+
+# Hasta aqui funciona el Jammer 
+
+funciona conectando un cable tipo C para alimentarlo
+![](pics/test1.jpeg)
+
+Lo siguiente es un mod
