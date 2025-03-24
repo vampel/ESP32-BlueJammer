@@ -48,3 +48,9 @@ solo es para no andar cargando con un **powerbank** o conectando al **USB**
 
 ![](pics/conexiones-F0.jpg)
 Se usan solo 2 pines (3.3v y GND)
+
+![](pics/mod1.jpeg)
+![](pics/mod2.jpeg)
+![](pics/mod3.jpeg)
+
+
