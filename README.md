@@ -8,7 +8,7 @@ Este dispositivo fue hecho con fines educativos
 En su github puedes ver todo el tutorial y firmwares usados para hacer este dispositivo
 Recomienda ESP32 de 38 pines (Recomiendan DevKit) y 2 NRF24 que no sean negros
 
-Para esta version usamos que venden en cualquier tienda Steren pero tiene que ser la version de 38 pines y cualquier version de NRF24 (use la negra de 2 antenas)
+Para esta version usamos que venden en cualquier tienda Steren y es de USB tipo C (mas nuevo) pero tiene que ser la version de 38 pines y cualquier version de NRF24 (use el negro de antena)
 
 ![](pics/Devices.jpeg)
 
@@ -37,9 +37,14 @@ no es la mejor forma de presentar un esquematico pero es entendible para princip
 una vez terminada las conexion cargamos firmware 
 ![](pics/firmware1.jpg)
 
-# Hasta aqui funciona el Jammer 
+# Hasta aqui funciona el Jammer por si solo
 
 funciona conectando un cable tipo C para alimentarlo
 ![](pics/test1.jpeg)
 
-Lo siguiente es un mod
+# Lo siguiente es un mod solo es para poder alimentarlo desde el Flipper Zero
+
+solo es para no andar cargando con un **powerbank** o conectando al **USB**
+
+![](pics/conexiones-F0.jpg)
+Se usan solo 2 pines (3.3v y GND)
