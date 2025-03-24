@@ -51,6 +51,12 @@ Se usan solo 2 pines (3.3v y GND)
 
 ![](pics/mod1.jpeg)
 ![](pics/mod2.jpeg)
-![](pics/mod3.jpeg)
+![](pics/mod3.jpeg) En esta ultima le quite 1 linea mas de baquelita por que pegaba con el case de silicona del F0.
+
+
+# El mod aparte de no tener que usar un cable USB C es meramente estetico
+
+![](pics/flip1.jpeg)
+![](pics/flip2.jpeg)
 
 
